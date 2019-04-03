@@ -1,6 +1,6 @@
 # GitPlayground2019
 
-_Git is fun!_
+_Git is extremely fun!_
 
 **But I know lots of git commands**
 
@@ -12,6 +12,6 @@ Adding some things
 
 A list!
 
-- thing 1
-- thing 2
-- thing 3
+- happy thing 1
+- happy thing 2
+- happy thing 3
