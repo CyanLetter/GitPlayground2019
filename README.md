@@ -1,6 +1,6 @@
 # GitPlayground2019
 
-_Git is extremely fun!_
+EVIL CHANGE
 
 **But I know lots of git commands**
 
@@ -11,6 +11,7 @@ Adding some things
 
 
 A list!
+
 
 - happy thing 1
 - happy thing 2
